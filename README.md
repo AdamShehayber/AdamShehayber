@@ -251,6 +251,9 @@ I'm continuing to strengthen my knowledge and hands-on experience in:
 ### 🏅 CompTIA Security+
 Demonstrated foundational knowledge across threats, vulnerabilities, security architecture, security operations, identity, risk management, and incident response.
 
+### 🛡️ Metana Cybersecurity Bootcamp — Completed
+Completed hands-on cybersecurity training focused on security operations, threat detection, incident investigation, and practical security tools.
+
 ### 🎓 Bachelor of Science in Computer Science
 
 Computer science background covering software development, databases, data structures, networking, operating systems, and application development.
