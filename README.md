@@ -56,6 +56,21 @@ My background in **computer science and software development** also gives me exp
 
 # 🚀 Featured Projects
 
+## 🛡️ SOC Incident Investigation — LRK-0305: Payment Page Script Tampering
+
+**[View investigation report and evidence screenshots](https://github.com/AdamShehayber/LRK-0305-Payment-Script-Investigation)**
+
+**Splunk Enterprise | AWS CloudTrail | S3 | Incident Response | Change Management**
+
+Investigated a **simulated** payment-page JavaScript tampering incident, distinguishing an approved Black Friday deployment from a later unauthorized modification.
+
+- Correlated S3 `PutObject` events, IAM identities, source IP addresses, user agents, and approved change records.
+- Identified an out-of-window script modification associated with compromised deployment credentials.
+- Documented a **true-positive, high-severity** finding, escalation rationale, containment actions, and customer-impact indicators.
+- Published a reproducible case study with SPL searches, an evidence timeline, and six investigation screenshots.
+
+---
+
 ## 🛡️ SOC Analyst Investigation Portfolio
 
 I'm building a growing portfolio of hands-on SOC investigations that documents my investigation process from initial alert through final resolution.
